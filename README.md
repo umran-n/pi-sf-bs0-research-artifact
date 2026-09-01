@@ -101,7 +101,9 @@ Paper: **_Silence Is Not Clearance: Workflow-Specific LLM Selection for Institut
 
 Author: **Umran Nayani**
 
-Canonical SSRN record: **forthcoming**
+SSRN submission record: **[Abstract ID 7391379](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7391379)**
+
+Status: **Submitted to SSRN; record currently under review.**
 
 ## Provenance
 
