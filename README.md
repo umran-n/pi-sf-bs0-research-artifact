@@ -57,6 +57,8 @@ The next empirical layer is a paired governed evaluation under PI-OS controls me
 
 ## Start here
 
+### Frozen evidence
+
 - [Frozen seven-case corpus](corpus/BS0_FROZEN_CASES.md)
 - [Canonical 49-observation ledger](results/BS0_CANONICAL_RESULT_LEDGER.csv)
 - [Canonical result matrix](results/BS0_RESULT_MATRIX.md)
@@ -66,11 +68,26 @@ The next empirical layer is a paired governed evaluation under PI-OS controls me
 - [Technical retry / non-canonical ledger](results/BS0_TECHNICAL_RETRY_LEDGER.md)
 - [Provider-side usage note](results/FIREWORKS_PROVIDER_USAGE.md)
 - [Provider token observations](results/FIREWORKS_PROVIDER_TOKEN_USAGE.csv)
+- [Evidence manifest](evidence/BS0_EVIDENCE_MANIFEST.md)
+- [Canonical-output publication boundary](evidence/canonical-outputs/README.md)
+
+### Interpretation and method
+
+- [Publication findings synthesis](results/BS0_FINDINGS.md)
+- [Case-level synthesis](results/BS0_CASE_DIFFICULTY.md)
+- [Provisional native selection note](results/BS0_SELECTION_NOTE.md)
 - [BS-0 native protocol](methodology/BS0_NATIVE_PROTOCOL.md)
 - [PI-SF methodology note](methodology/PI-SF_Methodology.md)
 - [Research data dictionary](docs/DATA_DICTIONARY.md)
-- [Evidence manifest](evidence/BS0_EVIDENCE_MANIFEST.md)
+- [Structured reproducibility guide](docs/REPRODUCIBILITY.md)
+
+### Release metadata
+
 - [Release manifest](RELEASE_MANIFEST.md)
+- [Public artifact release checklist](docs/PUBLICATION_RELEASE_CHECKLIST.md)
+- [Citation metadata](CITATION.cff)
+- [Rights and reuse](RIGHTS_AND_REUSE.md)
+- [Changelog](CHANGELOG.md)
 
 ## Interactive research companion
 
