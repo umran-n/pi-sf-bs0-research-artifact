@@ -1,0 +1,8 @@
+candidate_id,candidate,fireworks_model_path,total_params,active_params,class,serverless_list_price_at_roster_freeze
+M-BS01,OpenAI gpt-oss-20b,accounts/fireworks/models/gpt-oss-20b,"~21.5B (Fireworks metadata also displays 20.9B)",3.6B,MoE / compact-practical,"$0.07/M input; $0.30/M output"
+M-BS02,NVIDIA Nemotron Lightning 3.5 30B A3B,accounts/fireworks/models/nemotron-lightning-3p5-30b-a3b,32.9B,3B,MoE / compact-medium,"$0.05/M input; $0.20/M output"
+M-BS03,OpenAI gpt-oss-120b,accounts/fireworks/models/gpt-oss-120b,"~117B (metadata displays 116B)",5.1B,MoE / large,"$0.15/M input; $0.60/M output"
+M-BS04,DeepSeek-V4-Flash-0731,accounts/fireworks/models/deepseek-v4-flash-0731,304B,not stated at roster freeze,MoE / very large,"$0.14/M input; $0.28/M output"
+M-BS05,DeepSeek-V4-Pro-0813,accounts/fireworks/models/deepseek-v4-pro-0813,1.6T,"~49B active (Fireworks background material)",MoE / frontier,"$1.32/M input; $3.96/M output"
+M-BS06,Qwen3.8-2.4T-A95B,accounts/fireworks/models/qwen3p8-max,2.41T,~95B,sparse MoE / frontier,"$2.00/M input; $6.00/M output"
+M-BS07,Kimi K3,accounts/fireworks/models/kimi-k3,2.81T,~104B,MoE / frontier,"$3.00/M input; $15.00/M output"
