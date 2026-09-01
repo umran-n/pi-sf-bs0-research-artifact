@@ -2,12 +2,13 @@
 
 **Audit date:** 2026-09-01  
 **Artifact:** `umran-n/pi-sf-bs0-research-artifact`  
-**Audit stage:** pre-publication freeze
+**Audit stage:** public pre-tag freeze
 
 ## Disposition
 
 **CONTENT PACKAGE: PASS**  
-**PUBLIC RELEASE: HOLD pending visibility + immutable tag/release**
+**PUBLIC VISIBILITY: PASS**  
+**IMMUTABLE RELEASE: HOLD pending tag + GitHub Release**
 
 ## Empirical reconciliation
 
@@ -101,12 +102,11 @@ The curated release contains:
 
 ## Remaining release operations
 
-1. Change repository visibility from private to public.
-2. Create immutable tag `PI-SF-BS0-v1.0` pointing at the frozen publication commit.
-3. Create a GitHub Release from that tag.
-4. Record the immutable release URL.
-5. Bind that URL into the manuscript and Lovable companion.
-6. After SSRN publication, bind the canonical SSRN record into this repository and the companion site without changing the frozen empirical files.
+1. Create immutable tag `PI-SF-BS0-v1.0` pointing at the frozen publication commit.
+2. Create a GitHub Release from that tag.
+3. Record the immutable release URL.
+4. Bind that URL into the manuscript and Lovable companion.
+5. After SSRN publication, bind the canonical SSRN record into this repository and the companion site without changing the frozen empirical files.
 
 ## Mutation rule after freeze
 
