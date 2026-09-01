@@ -37,8 +37,8 @@
 
 ## Remaining release operations
 
-- [ ] complete final repository content audit
-- [ ] make repository public
+- [x] complete final repository content audit
+- [x] make repository public
 - [ ] create immutable tag `PI-SF-BS0-v1.0`
 - [ ] create GitHub Release from the immutable tag
 - [ ] bind immutable release URL into manuscript
