@@ -4,7 +4,7 @@
 
 - Artifact: **PI-SF BS-0 Research Artifact**
 - Intended release tag: `PI-SF-BS0-v1.0`
-- Publication status: **pre-publication / private build**
+- Publication status: **public / awaiting immutable tag and GitHub Release**
 - Associated paper: _Silence Is Not Clearance: Workflow-Specific LLM Selection for Institutional AI — A Seven-Model Study Using the Private Intelligence Selection Function (PI-SF)_
 - Author: **Umran Nayani**
 
@@ -70,11 +70,11 @@ SSRN record:
 
 Immutable GitHub release URL:
 
-**to be bound after `PI-SF-BS0-v1.0` is created and the repository is made public**
+**to be bound after `PI-SF-BS0-v1.0` is created**
 
 ## Final release gate
 
-Before the repository is made public and tagged:
+Before the immutable tag and GitHub Release are created:
 
 - [x] 49-cell ledger reconciles to 24 / 17 / 8
 - [x] candidate-row totals reconcile to 24 / 17 / 8
@@ -83,8 +83,9 @@ Before the repository is made public and tagged:
 - [x] private-source checkpoint recorded
 - [x] publication-safe methodology and evidence notes added
 - [x] private reasoning/account-sensitive material excluded from curated package
-- [ ] final repository content audit
+- [x] final repository content audit completed
+- [x] repository visibility changed to public
 - [ ] immutable tag `PI-SF-BS0-v1.0` created
-- [ ] repository visibility changed to public
+- [ ] GitHub Release created from the immutable tag
 - [ ] immutable release URL inserted into paper and Lovable
 - [ ] SSRN citation bound after publication
