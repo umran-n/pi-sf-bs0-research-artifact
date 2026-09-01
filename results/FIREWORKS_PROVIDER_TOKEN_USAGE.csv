@@ -1,0 +1,8 @@
+candidate_id,candidate,provider_observed_tokens_k
+M-BS01,OpenAI gpt-oss-20b,12.1
+M-BS02,NVIDIA Nemotron Lightning 3.5 30B A3B,21.4
+M-BS03,OpenAI gpt-oss-120b,14.3
+M-BS04,DeepSeek-V4-Flash-0731,12.0
+M-BS05,DeepSeek-V4-Pro-0813,33.8
+M-BS06,Qwen3.8-2.4T-A95B,27.7
+M-BS07,Kimi K3,19.1
