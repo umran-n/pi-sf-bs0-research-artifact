@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research artifact, please cite the associated paper and the frozen repository release."
+title: "PI-SF BS-0 Research Artifact"
+type: dataset
+authors:
+  - family-names: "Nayani"
+    given-names: "Umran"
+version: "1.0.0"
+abstract: "Publication-specific research artifact for Silence Is Not Clearance: a workflow-specific native model suitability study under the Private Intelligence Selection Function (PI-SF), covering seven models, seven frozen Deal Screener cases, and 49 canonical native observations."
+repository-code: "https://github.com/umran-n/pi-sf-bs0-research-artifact"
+url: "https://pi-os-guardians.lovable.app/"
+keywords:
+  - "Private Intelligence Selection Function"
+  - "PI-SF"
+  - "institutional AI"
+  - "LLM evaluation"
+  - "workflow-specific benchmarking"
+  - "governance burden"
+  - "Silence Trap"
